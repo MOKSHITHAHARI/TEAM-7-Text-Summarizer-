@@ -1,2 +1,2 @@
-# TEAM-7-Text-Summarizer-
+Text-Summarizer-
 Abstract
